@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("master2 test");
 
         System.out.println("hot-fix2 test");
+        System.out.println("GITHUB PUSH test");
 
   }
 }
